@@ -1,5 +1,5 @@
 ## LIVE DEMO :- <a href="https://cinemate-movie-app.netlify.app/">Cinemate - A Movie website</a>
-
+Username: rahul, Password: rahul@2021
 ### Prerequisites
 
 #### UI Prerequisites
